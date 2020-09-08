@@ -1,0 +1,55 @@
+body{
+	max-width: 950px;
+	margin: auto;
+	font-size: 16px;
+	padding: 20px;
+	width: 87%;
+}
+h4{
+	font: italic small-caps bolder 28px arial, sans-serif;
+}
+
+.right{
+	float: right;
+	padding-bottom: 40px;
+}
+.left{
+	float: left;
+	padding-bottom: 40px;
+}
+h2{
+	padding: 20px;
+}
+.image{
+	float: left;
+	padding: 0px 20px 20px ;
+	height: 250px;
+}
+.identity{
+	
+}
+.background-image{
+	background-image: url(img/bat_cover.jpg); 
+	width: 87%;
+	height: 450px;
+	color: white;
+	padding-top: 50px;
+	margin-top: 25px;
+}
+.content{
+	background-color: rgb(0,0,0,0.7);
+	max-width: 450px;
+	padding: 30px 20px;
+	margin-top: 50px;
+}
+.para{
+	padding: 20px;
+	width: 100%;
+}
+.navbar-header{
+	padding: 5px 0px;
+	margin-bottom: 1px solid;
+}
+.thumbnail{
+	width: 87%;
+}
